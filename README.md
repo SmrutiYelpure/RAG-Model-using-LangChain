@@ -1,7 +1,4 @@
 
-### HTML Version of README
-
-Here's the HTML version of the README content for GitHub:
 
 ```html
 <!DOCTYPE html>
