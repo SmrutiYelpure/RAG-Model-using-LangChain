@@ -4,13 +4,12 @@ This project demonstrates a simple implementation of a Retrieval-Augmented Gener
 
 ## Project Structure
 
-rag_project/
-│
-├── .env
-├── requirements.txt
-├── create_database.py
-├── query_data.py
-├── compare_embeddings.py
+Project
+.env
+  requirements.txt
+  create_database.py
+  query_data.py
+  compare_embeddings.py
 │
 ├── data/
 │ └── books/
