@@ -45,7 +45,7 @@ This project demonstrates a simple implementation of a Retrieval-Augmented Gener
 ## Setup
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/rag_project.git
+    git clone https://github.com/SmrutiYelpure/RAG-Model-using-LangChain.git
     cd rag_project
     ```
 2. **Create and activate a virtual environment:**
