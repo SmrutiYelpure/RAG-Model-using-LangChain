@@ -1,7 +1,11 @@
 # RAG Project
 
-This project demonstrates a simple implementation of a Retrieval-Augmented Generation (RAG) system using free Hugging Face models. It includes functionalities for creating a database of text documents, querying the database, and comparing embeddings.
-
+This project demonstrates a Retrieval-Augmented Generation (RAG) system using free Hugging Face models and LangChain. The system performs the following functions:
+<ul>
+<li>Input Handling: Accepts text documents in .txt or .md (Markdown) format.</li>
+<li>Query Processing: Processes user queries based on the content of the provided input files.</li>
+<li>Response Generation: Generates answers to the questions based on the information contained in the input files.</li>
+</ul>
 ## Project Structure
 <ul>
   <li>.env</li>
