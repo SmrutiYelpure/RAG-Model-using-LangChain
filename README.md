@@ -6,6 +6,7 @@ This project demonstrates a Retrieval-Augmented Generation (RAG) system using fr
 <li>Query Processing: Processes user queries based on the content of the provided input files.</li>
 <li>Response Generation: Generates answers to the questions based on the information contained in the input files.</li>
 </ul>
+
 ## Project Structure
 <ul>
   <li>.env</li>
